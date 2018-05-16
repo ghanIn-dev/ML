@@ -1,4 +1,4 @@
-# 1.Linear Regression
+# 1. Linear Regression
 
 Linear: 직선
 Regression: 회귀
@@ -14,3 +14,6 @@ H(x) = Wx + b
 
 이 비용함수의 최소값을 찾는 알고리즘을 Optimizer(옵티마이저)라고하는데,
 대표적으로 Grdient Descent(경사 하강법)이 있다.
+
+
+http://gdyoon.tistory.com/7
