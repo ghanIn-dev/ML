@@ -17,3 +17,4 @@ H(x) = Wx + b
 
 
 http://gdyoon.tistory.com/7
+http://bcho.tistory.com/1139
