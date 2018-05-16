@@ -20,5 +20,29 @@ classification : 분류
 
 -----------------------------------------
 
+# 4. Lab1 TensorFlow
 
 설치 : http://solarisailab.com/archives/384
+
+1. tensorflow는 그래프를 먼저 빌드하고
+2. sess.run을 통해서 그 그래프를 실행해야
+3. 그래프 변수의 값이 변한다.
+
+==
+
+1. build graph
+2. feed data and run
+3. update value
+
+### placeholder
+그래프를 정의할때 placeholder로 만들게되면 sess을 실행할때 feed_dict={x:x_data} 의 형태로 값을 넘겨준다.
+
+### tensor
+rank : 차원
+shape : 각각의 element 갯수  ex) [[1,2,3],[4,5,6],[7,8,9] 는 [3,3] 으로 나타냄
+data-type: 보통 tf.float32
+
+
+
+
+
